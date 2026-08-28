@@ -49,9 +49,16 @@ The purpose of this lab was to get familar with the set up of Virtual Box, Kali 
 
 # 📋 General Steps Taken
 
-1. Download Virtual Box
-2. Setup Kali VM
-3. Configure Network Specifications in Kali
-4. Kali VM Clone
-5. Setup Windows 11
-6. Windows 11 Clone
+1. Download John & Johnny
+2. 
+3. 
+4. 
+5. 
+
+# Step 1 - Download John & Johnny
+
+<img width="1600" height="123" alt="Screenshot 2026-08-28 113924" src="https://github.com/user-attachments/assets/b32e2e1c-2eeb-4b43-8524-95401e7d89b5" />
+<img width="912" height="861" alt="Screenshot 2026-08-28 115458" src="https://github.com/user-attachments/assets/0bab6e26-44cc-461e-aedc-4ffc8efe2b2e" />
+
+
+# Step 2 - 
