@@ -1,1 +1,55 @@
 # networkwalks-B082-week1-Week-3-Password-Cracking
+
+
+<p align="center">
+  <a href="#overview">Overview</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#networking">Networking</a> •
+  <a href="#credits">Credits</a>
+</p>
+
+<h3 align="center">🧭 Overview</h3>
+<p align="center">
+ An intuitive cybersecurity lab built on Virtual Box using Kali Linux, focused on penetration testing fundamentals in an isolated network environment.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:7F1D1D&height=3&width=100%25" alt="divider" />
+</p>
+
+<h3 align="center" id="tech-stack">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-450A0A?style=for-the-badge&labelColor=DC2626&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Windows-450A0A?style=for-the-badge&labelColor=000000&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VirtualBox-v7.1.12-450A0A?style=for-the-badge&labelColor=991B1B&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+  <img src="https://img.shields.io/badge/Linux-450A0A?style=for-the-badge&labelColor=B91C1C&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Linux%20Fundamentals-450A0A?style=for-the-badge&labelColor=E11D48&logo=linux&logoColor=white" alt="Linux Fundamentals" />
+  <img src="https://img.shields.io/badge/Penetration%20Testing-450A0A?style=for-the-badge&labelColor=DC2626&logo=metasploit&logoColor=white" alt="Penetration Testing" />
+</p>
+
+<h3 align="center" id="networking">🌐 Networking</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-450A0A?style=for-the-badge&labelColor=1BA0D7&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Networking-450A0A?style=for-the-badge&labelColor=EF4444&logo=wireguard&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Isolated%20Networking-450A0A?style=for-the-badge&labelColor=991B1B&logo=protonvpn&logoColor=white" alt="Isolated Networking" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F87171,100:7F1D1D&height=3&width=100%25" alt="divider" />
+</p>
+
+<h3 align="center" id="credits">🤝 Credits</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Program-Network%20Walks-450A0A?style=for-the-badge&labelColor=B91C1C" alt="Network Walks" />
+  <img src="https://img.shields.io/badge/Instructor-Waqas%20Karim%20(CCIE)-450A0A?style=for-the-badge&labelColor=DC2626&logo=cisco&logoColor=white" alt="Waqas Karim CCIE" />
+  <img src="https://img.shields.io/badge/By-Asher%20Maxwell-450A0A?style=for-the-badge&labelColor=E11D48&logo=github&logoColor=white" alt="Asher Maxwell" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:DC2626&height=3&width=100%25" alt="divider" />
+</p>
+
+
+# 📌 Overview
+
+The purpose of this lab was to get familar with the set up of Virtual Box, Kali Linux and understand basic network trouble shooting techniques. 
