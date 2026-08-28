@@ -2,7 +2,6 @@
 
 
 <p align="center">
-  <a href="#overview">Overview</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#networking">Networking</a> •
   <a href="#credits">Credits</a>
@@ -44,16 +43,16 @@
 
 
 # 📌 Overview
-
-The purpose of this lab was to get familar with the set up of Virtual Box, Kali Linux and understand basic network trouble shooting techniques. 
+Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and JTR JOHNNY tools on my Windows PC.
 
 # 📋 General Steps Taken
 
 1. Download John & Johnny
-2. 
-3. 
-4. 
-5. 
+2. Add `john.exe` file to the Johnny GUI
+3. Download the PDF to be cracked
+4. Save has value, upload file and start new attack
+5. Test the cracked password
+   
 
 # Step 1 - Download John & Johnny
 
@@ -101,6 +100,54 @@ The purpose of this lab was to get familar with the set up of Virtual Box, Kali 
 <img width="525" height="744" alt="Screenshot 2026-08-28 123644" src="https://github.com/user-attachments/assets/0a2b7504-842c-486f-a4e7-215b2bcd8cfb" />
 
 
+# Password Cracking with Networkwalks Tools
+
+# 📋 General Steps Taken
+
+1. Uplaod locked PDF file to Networkwalks Hash Calculator
+2. Copy the PDF hash value into Networkwalks Password Cracker
+3. Open the locked PDF file and enter the cracked password
+4. 
+5. 
+
+# Step 1 - Uplaod locked PDF file to Networkwalks Hash Calculator
+
+<img width="896" height="767" alt="Screenshot 2026-08-28 133152" src="https://github.com/user-attachments/assets/98de0edd-cc88-4215-be39-f44d13c3707a" />
+
+# Step 2 - Copy the PDF hash value into Networkwalks Password Cracker
+ Access Denied <br>
+<img width="886" height="903" alt="Screenshot 2026-08-28 133755" src="https://github.com/user-attachments/assets/bf9159bf-b7be-429f-be64-96bfb27756dd" />
+
+<br> <br>
+Access Granted <br>
+<img width="890" height="909" alt="Screenshot 2026-08-28 134435" src="https://github.com/user-attachments/assets/073cd151-ccfa-42bf-917c-9cc1f4c9dbcf" />
+
+# Step 3 - Open the locked PDF file and enter the cracked password
+
+<img width="1912" height="1027" alt="Screenshot 2026-08-28 123524" src="https://github.com/user-attachments/assets/963bd007-0224-4946-8afe-ca193351f376" />
+
+<br>
+<br>
+
+<img width="525" height="744" alt="Screenshot 2026-08-28 123644" src="https://github.com/user-attachments/assets/0a2b7504-842c-486f-a4e7-215b2bcd8cfb" />
+
+<br>
+
+# 🧠 What I've learnt
+
+Throughout this lab, I have learnt about different tools that are used together in discovering the passwords for pdf files. There are tools like PDF Hash Extractor that extracts the has value of a pdf. That hash value is then pasted into a tool like John The Ripper GUI version which is connected to the john.exe file from John The Ripper cli version. When the hash file is uploaded to the software it is abble to crack the password of the locked pdf file. There are other tools that can help in getting the hash value of a PDF file like https://networkwalks.com/hash-calculator/ . Networkwalks Password Cracker https://networkwalks.com/password-cracker/ is then used to reveal that password for the pdf file by using either its built in ist or through uploading a custom dictionary. It was observed when using the Networks Password Cracker, that the algorithm seemedto be a brute force methodology.
+
+# 🔐 Copyright Notice
+
+© 2026 Asher J. Maxwell. All Rights Reserved.
+
+This repository, including its documentation, configurations, lab materials, and original content, is the property of Asher Maxwell. Unauthorized copying, reproduction, modification, redistribution, or commercial use of the original content without prior written permission is prohibited.
+
+The materials are provided for educational and cybersecurity lab purposes only. Any third-party software, trademarks, or resources referenced in this repository remain the property of their respective owners.
+
+# Project Status
+
+Completed ✅
 
 
 
