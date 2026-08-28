@@ -21,7 +21,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-450A0A?style=for-the-badge&labelColor=DC2626&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Windows-450A0A?style=for-the-badge&labelColor=000000&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/Penetration%20Testing-450A0A?style=for-the-badge&labelColor=DC2626&logo=metasploit&logoColor=white" alt="Pasword Cracking" />
+  <img src="https://img.shields.io/badge/Password%20Cracking-450A0A?style=for-the-badge&labelColor=DC2626&logo=hashcat&logoColor=white" alt="Password Cracking" />
 </p>
 
 <h3 align="center" id="networking">🌐 Networking</h3>
