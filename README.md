@@ -8,10 +8,6 @@
   <a href="#credits">Credits</a>
 </p>
 
-<h3 align="center">🧭 Overview</h3>
-<p align="center">
- An intuitive cybersecurity lab built on Virtual Box using Kali Linux, focused on penetration testing fundamentals in an isolated network environment.
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:7F1D1D&height=3&width=100%25" alt="divider" />
