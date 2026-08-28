@@ -45,6 +45,25 @@
 # 📌 Overview
 Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and JTR JOHNNY tools on my Windows PC.
 
+## 🖥️ Lab Environment
+
+| Component          | Configuration         |
+| :----------------- | :-------------------- |
+| **Host OS**        | Windows               |
+| **Attack Machine** | Windows 11            |
+| **Project**        | Week 3 – Module 1 & 2 |
+| **Focus**          | Password Cracking     |
+| **Primary Tool**   | John the Ripper (JTR) & Network Walks Tools |
+| **GUI Tool**       | Johnny                |
+| **Program**        | Network Walks         |
+
+## Files Used
+
+* John The Ripper : https://www.openwall.com/john/
+* Johnny [GUI] : https://openwall.info/wiki/john/johnny
+* Network Walks Hash Calculator : https://networkwalks.com/hash-calculator/
+* Network Walks Password Cracker : https://networkwalks.com/password-cracker
+
 # 📋 General Steps Taken
 
 1. Download John & Johnny
@@ -107,8 +126,6 @@ Crack the password of attached PDF file (My Locked PDF1.pdf) using JTR JOHN and 
 1. Uplaod locked PDF file to Networkwalks Hash Calculator
 2. Copy the PDF hash value into Networkwalks Password Cracker
 3. Open the locked PDF file and enter the cracked password
-4. 
-5. 
 
 # Step 1 - Uplaod locked PDF file to Networkwalks Hash Calculator
 
