@@ -46,3 +46,12 @@
 # 📌 Overview
 
 The purpose of this lab was to get familar with the set up of Virtual Box, Kali Linux and understand basic network trouble shooting techniques. 
+
+# 📋 General Steps Taken
+
+1. Download Virtual Box
+2. Setup Kali VM
+3. Configure Network Specifications in Kali
+4. Kali VM Clone
+5. Setup Windows 11
+6. Windows 11 Clone
